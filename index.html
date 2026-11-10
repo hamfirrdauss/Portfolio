@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Portfolio</title>
+<meta name="description" content="Career portfolio">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="/styles.css">
+<style>
+body{margin:0}
+.boot{min-height:100vh;display:grid;place-items:center;color:var(--faint);font:500 13px ui-monospace,Menlo,monospace;letter-spacing:.08em}
+</style>
+</head>
+<body>
+<div id="site"><div class="boot">LOADING PORTFOLIO…</div></div>
+<script src="/core.js"></script>
+<script>
+(async()=>{
+  try{
+    const r=await fetch('/content.json',{cache:'no-store'});
+    D=norm(await r.json());D.builder=false;
+    document.documentElement.lang=D.lang==='id'?'id':'en';
+    document.title=L(D).title(D.name||'');
+    const m=document.querySelector('meta[name=description]');if(m)m.content=[D.role,String(D.tagline||'').replace(/\*/g,'')].filter(Boolean).join('. ');
+    setFont(D.font);
+    document.getElementById('site').innerHTML=renderSite(D,{exp:true});
+    if(location.hash){const t=document.getElementById(location.hash.slice(1));if(t)t.scrollIntoView()}
+  }catch(e){
+    document.getElementById('site').innerHTML='<div class="boot">Could not load the portfolio. Please refresh the page.</div>';
+  }
+})();
+</script>
+</body>
+</html>
