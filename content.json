@@ -1,0 +1,304 @@
+{
+  "name": "Hamdan Firdaus",
+  "initials": "HF",
+  "role": "Research & Business Analyst",
+  "tagline": "Turning *economic and business data* into clear recommendations for decision-makers.",
+  "about": "I hold a degree in Economics and bring two years of experience across central banking and financial research. My work spans industry and macroeconomic research, econometric analysis, survey design, and market data processing with Bloomberg, CEIC, STATA, and EViews, distilled into reports and executive presentations.",
+  "location": "Jakarta, Indonesia",
+  "status": "Open to Research Associate and Business Analyst roles",
+  "focus": "Economic & industry research · Business analysis · Data analysis",
+  "languages": "Indonesian (native), English (professional, TOEFL 527)",
+  "email": "hamfirrdauss@gmail.com",
+  "linkedin": "linkedin.com/in/hamfirdaus",
+  "website": "tinyurl.com/portofolio-hamdan",
+  "cvUrl": "",
+  "phone": "+62 813-2188-3455",
+  "showPhone": false,
+  "ctaTitle": "Let's talk.",
+  "ctaText": "Open to conversations about research, business analysis, and risk analysis roles, as well as collaborations in economic and financial research.",
+  "xpIntro": "Experience across a central bank, a state-owned enterprise, a university fintech centre, and a heavy-equipment company, most recent first.",
+  "metrics": [
+    {
+      "v": "93.59%",
+      "l": "Budget absorption on an IDR 210 billion programme",
+      "s": "Bank Indonesia · 2025"
+    },
+    {
+      "v": "46",
+      "l": "Regional offices covered by monthly realisation analysis",
+      "s": "Bank Indonesia · 2025"
+    },
+    {
+      "v": "25 hrs",
+      "l": "Manual reporting saved every week with a Power BI dashboard",
+      "s": "United Tractors · 2023"
+    },
+    {
+      "v": "+40%",
+      "l": "Increase in online traffic to UT Virtual Museum",
+      "s": "United Tractors · 2023"
+    },
+    {
+      "v": "100+",
+      "l": "Field survey respondents across Jakarta and West Java",
+      "s": "UNS Fintech Center · 2023"
+    },
+    {
+      "v": "3.82",
+      "l": "Bachelor of Economics GPA out of 4.00",
+      "s": "Universitas Sebelas Maret · 2024"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Business Analyst Associate",
+      "org": "Bank Indonesia",
+      "period": "Jan 2025 – present",
+      "city": "Jakarta",
+      "points": [
+        "Analyse monthly budget realisation of a programme across 46 regional offices; recommendations helped drive a 93.59% absorption rate on an IDR 210 billion budget.",
+        "Compile and analyse monthly agricultural sector data from 46 regional offices into periodic management reports.",
+        "Build pricing benchmarks through vendor and market price analysis (RFI/RFP evaluation) to inform procurement decisions.",
+        "Prepare executive presentations on MSME development, financial inclusion, business matching, and agricultural facilities."
+      ]
+    },
+    {
+      "role": "Research Analyst Intern",
+      "org": "PT Danareksa (Persero)",
+      "period": "Aug 2024 – Dec 2024",
+      "city": "Jakarta",
+      "points": [
+        "Conducted multi-sector industry research covering industrial estates, renewable energy, textiles, bancassurance, and construction.",
+        "Performed macroeconomic, market, and econometric analysis using Bloomberg, CEIC, STATA, and EViews.",
+        "Supported equity and fixed income research, capital markets valuation, and industry benchmarking."
+      ]
+    },
+    {
+      "role": "Surveyor",
+      "org": "UNS Fintech Center",
+      "period": "Aug 2023 – Dec 2023",
+      "city": "Surakarta",
+      "points": [
+        "Collected primary field data from 100+ respondents in Jakarta and West Java for a BPKH-commissioned survey.",
+        "Administered structured questionnaires via Survey Monkey and compiled clean, validated datasets."
+      ]
+    },
+    {
+      "role": "Data Management Intern",
+      "org": "PT United Tractors Tbk",
+      "period": "Feb 2023 – Jul 2023",
+      "city": "Jakarta",
+      "points": [
+        "Migrated training data for 900+ employees to Power BI, cutting manual reporting by 25 hours per week.",
+        "Designed 6+ business models and user interfaces for the UT Smart website.",
+        "Analysed content and assessment frameworks for UT Virtual Museum, driving a 40% increase in online traffic."
+      ]
+    },
+    {
+      "role": "Data Analyst Intern",
+      "org": "Bank Indonesia Representative Office Surakarta",
+      "period": "Aug 2022 – Dec 2022",
+      "city": "Surakarta",
+      "points": [
+        "Supported economic assessment across MSMEs & Sharia Economics, Statistics & Data, and Public Relations.",
+        "Analysed retail sales surveys and daily commodity prices, then built dashboards and policy recommendations, including on rice trade."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Feasibility study for an industrial estate in a Special Economic Zone",
+      "org": "PT Danareksa (Persero)",
+      "year": "2024",
+      "problem": "A client needed to assess the feasibility of developing an industrial estate inside a Special Economic Zone.",
+      "approach": "Built the research framework, analysed SEZ performance and benchmarks, ran a highest-and-best-use study, and projected financials (NPV, IRR, payback) with sensitivity analysis on price, occupancy, cost, and discount rate.",
+      "result": "Delivered strategic recommendations, a research report, an executive summary, and presentation materials to the client.",
+      "tags": [
+        "Feasibility study",
+        "NPV/IRR",
+        "Sensitivity analysis",
+        "Benchmarking"
+      ],
+      "images": [],
+      "links": []
+    },
+    {
+      "title": "Budget realisation analysis across 46 regional offices",
+      "org": "Bank Indonesia",
+      "year": "Since 2025",
+      "problem": "A programme ran across 46 regional offices with a budget of about IDR 210 billion, and its realisation had to be tracked every month.",
+      "approach": "Monitored realisation by office, identified deviations and their causes, developed 60 facility standards, and ran quarterly evaluations.",
+      "result": "Budget absorption reached 93.59% of the IDR 210 billion total.",
+      "tags": [
+        "Budget analysis",
+        "Monitoring & evaluation",
+        "Executive presentations"
+      ],
+      "images": [],
+      "links": []
+    },
+    {
+      "title": "Price benchmarks and equipment standards for MSME ventures",
+      "org": "Bank Indonesia",
+      "year": "Since 2025",
+      "problem": "A bottled-water pilot project at Islamic boarding schools needed fair reference prices and equipment specifications.",
+      "approach": "Ran field surveys, issued an RFI to 15 national vendors, compared prices and specifications, and modelled target cascading by province.",
+      "result": "The price benchmarks and equipment standards became the basis for running the pilot.",
+      "tags": [
+        "Market research",
+        "Vendor analysis",
+        "RFI"
+      ],
+      "images": [],
+      "links": []
+    },
+    {
+      "title": "Training dashboard for 900+ employees",
+      "org": "PT United Tractors Tbk",
+      "year": "2023",
+      "problem": "Employee training data was handled manually, so reporting took a lot of time.",
+      "approach": "Migrated the data to Power BI and built an interactive training performance dashboard.",
+      "result": "Manual reporting dropped by 25 hours a week and training insights became easy for the team to access.",
+      "tags": [
+        "Power BI",
+        "Data visualisation"
+      ],
+      "images": [],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research & analysis",
+      "items": [
+        "Industry research",
+        "Macroeconomic research",
+        "Econometrics",
+        "Survey & questionnaire design",
+        "Feasibility studies (NPV/IRR)",
+        "Sensitivity analysis",
+        "Valuation & benchmarking",
+        "Price & vendor analysis",
+        "Monitoring & evaluation"
+      ]
+    },
+    {
+      "name": "Analytics tools",
+      "items": [
+        "Excel",
+        "STATA",
+        "EViews",
+        "Power BI",
+        "PowerPoint",
+        "Oracle ERP",
+        "Survey Monkey",
+        "Trello",
+        "Figma"
+      ]
+    },
+    {
+      "name": "Market intelligence",
+      "items": [
+        "Bloomberg Terminal",
+        "CEIC",
+        "EMIS",
+        "Prompt engineering (Claude AI)"
+      ]
+    },
+    {
+      "name": "Communication",
+      "items": [
+        "Report writing",
+        "Executive presentations",
+        "Data visualisation",
+        "Graphic design (Adobe, Canva)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Universitas Gadjah Mada",
+      "degree": "Master of Business Administration, Finance concentration",
+      "period": "In progress",
+      "note": ""
+    },
+    {
+      "school": "Universitas Sebelas Maret",
+      "degree": "Bachelor of Economics",
+      "period": "2020 – 2024",
+      "note": "GPA 3.82 / 4.00"
+    }
+  ],
+  "certs": [
+    {
+      "name": "Records Management Internal Auditor",
+      "issuer": "Robere & Associate",
+      "date": "Jan 2026"
+    },
+    {
+      "name": "MSME Curator (Kurator UMKM)",
+      "issuer": "Indonesian Professional Certification Authority (BNSP)",
+      "date": "Sep 2025"
+    },
+    {
+      "name": "TOEFL, score 527",
+      "issuer": "ETS",
+      "date": "May 2025"
+    }
+  ],
+  "activities": [
+    {
+      "role": "Vice President",
+      "org": "Student Executive Board, Faculty of Economics and Business, Universitas Sebelas Maret",
+      "period": "Jan – Dec 2022",
+      "note": "Led about 128 members across 7 departments and 15 divisions"
+    },
+    {
+      "role": "Head of Media Information",
+      "org": "HIPMI PT UNS",
+      "period": "Oct 2022 – Dec 2023",
+      "note": ""
+    }
+  ],
+  "awards": [
+    {
+      "name": "Finalist, SEMBULATION National Business Plan Competition",
+      "date": "Nov 2023"
+    },
+    {
+      "name": "Best Intern Employee, Kampus Merdeka at Bank Indonesia",
+      "date": "Dec 2022"
+    },
+    {
+      "name": "Grantee, New Student Entrepreneur programme (WIBAWA), UNS",
+      "date": "Oct 2022"
+    },
+    {
+      "name": "Research grantee, PKM-GT, Ministry of Education and Culture",
+      "date": "Sep 2021"
+    }
+  ],
+  "font": "ceria",
+  "accent": "#2A4DD0",
+  "builder": false,
+  "sticker": "Hi there!",
+  "photo": "",
+  "works": [
+    {
+      "title": "EconGlossary",
+      "label": "Web app",
+      "desc": "An online economics dictionary for economists and central bank analysts, which I developed.",
+      "url": "econglossary.vercel.app",
+      "image": ""
+    },
+    {
+      "title": "Full portfolio",
+      "label": "Document",
+      "desc": "A collection of work samples, reports, and presentation materials.",
+      "url": "tinyurl.com/portofolio-hamdan",
+      "image": ""
+    }
+  ],
+  "gallery": [],
+  "lang": "en"
+}
