@@ -11,7 +11,7 @@
   "email": "hamfirrdauss@gmail.com",
   "linkedin": "linkedin.com/in/hamfirdaus",
   "website": "tinyurl.com/portofolio-hamdan",
-  "cvUrl": "",
+  "cvUrl": "https://drive.google.com/file/d/1psnL4j9DmtL5T_IP6o9XNeKf-Mhk0mCG/view?usp=sharing",
   "phone": "+62 813-2188-3455",
   "showPhone": false,
   "ctaTitle": "Let's talk.",
@@ -51,26 +51,24 @@
   ],
   "experience": [
     {
-      "role": "Business Analyst Associate",
+      "role": "Data Analyst Intern",
       "org": "Bank Indonesia",
-      "period": "Jan 2025 – present",
-      "city": "Jakarta",
+      "period": "Aug 2022 – Dec 2022",
+      "city": "Surakarta",
       "points": [
-        "Analyse monthly budget realisation of a programme across 46 regional offices; recommendations helped drive a 93.59% absorption rate on an IDR 210 billion budget.",
-        "Compile and analyse monthly agricultural sector data from 46 regional offices into periodic management reports.",
-        "Build pricing benchmarks through vendor and market price analysis (RFI/RFP evaluation) to inform procurement decisions.",
-        "Prepare executive presentations on MSME development, financial inclusion, business matching, and agricultural facilities."
+        "Supported economic assessment across MSMEs & Sharia Economics, Statistics & Data, and Public Relations.",
+        "Analysed retail sales surveys and daily commodity prices, then built dashboards and policy recommendations, including on rice trade."
       ]
     },
     {
-      "role": "Research Analyst Intern",
-      "org": "PT Danareksa (Persero)",
-      "period": "Aug 2024 – Dec 2024",
+      "role": "Data Management Intern",
+      "org": "United Tractors",
+      "period": "Feb 2023 – Jul 2023",
       "city": "Jakarta",
       "points": [
-        "Conducted multi-sector industry research covering industrial estates, renewable energy, textiles, bancassurance, and construction.",
-        "Performed macroeconomic, market, and econometric analysis using Bloomberg, CEIC, STATA, and EViews.",
-        "Supported equity and fixed income research, capital markets valuation, and industry benchmarking."
+        "Migrated training data for 900+ employees to Power BI, cutting manual reporting by 25 hours per week.",
+        "Designed 6+ business models and user interfaces for the UT Smart website.",
+        "Analysed content and assessment frameworks for UT Virtual Museum, driving a 40% increase in online traffic."
       ]
     },
     {
@@ -84,24 +82,26 @@
       ]
     },
     {
-      "role": "Data Management Intern",
-      "org": "PT United Tractors Tbk",
-      "period": "Feb 2023 – Jul 2023",
+      "role": "Research Analyst Intern",
+      "org": "Danareksa ",
+      "period": "Aug 2024 – Dec 2024",
       "city": "Jakarta",
       "points": [
-        "Migrated training data for 900+ employees to Power BI, cutting manual reporting by 25 hours per week.",
-        "Designed 6+ business models and user interfaces for the UT Smart website.",
-        "Analysed content and assessment frameworks for UT Virtual Museum, driving a 40% increase in online traffic."
+        "Conducted multi-sector industry research covering industrial estates, renewable energy, textiles, bancassurance, and construction.",
+        "Performed macroeconomic, market, and econometric analysis using Bloomberg, CEIC, STATA, and EViews.",
+        "Supported equity and fixed income research, capital markets valuation, and industry benchmarking."
       ]
     },
     {
-      "role": "Data Analyst Intern",
-      "org": "Bank Indonesia Representative Office Surakarta",
-      "period": "Aug 2022 – Dec 2022",
-      "city": "Surakarta",
+      "role": "Business Analyst Associate",
+      "org": "Bank Indoneaia",
+      "period": "Jan 2025 – present",
+      "city": "Jakarta",
       "points": [
-        "Supported economic assessment across MSMEs & Sharia Economics, Statistics & Data, and Public Relations.",
-        "Analysed retail sales surveys and daily commodity prices, then built dashboards and policy recommendations, including on rice trade."
+        "Analyse monthly budget realisation of a programme across 46 regional offices; recommendations helped drive a 93.59% absorption rate on an IDR 210 billion budget.",
+        "Compile and analyse monthly agricultural sector data from 46 regional offices into periodic management reports.",
+        "Build pricing benchmarks through vendor and market price analysis (RFI/RFP evaluation) to inform procurement decisions.",
+        "Prepare executive presentations on MSME development, financial inclusion, business matching, and agricultural facilities."
       ]
     }
   ],
@@ -278,8 +278,8 @@
       "date": "Sep 2021"
     }
   ],
-  "font": "ceria",
-  "accent": "#2A4DD0",
+  "font": "klasik",
+  "accent": "#ffffff",
   "builder": false,
   "sticker": "Holaa!",
   "photo": "/images/mwatdige0htp.jpg",
