@@ -15,33 +15,33 @@
   "phone": "+62 813-2188-3455",
   "showPhone": false,
   "ctaTitle": "Let's talk.",
-  "ctaText": "Open to conversations about research, business analysis, and risk analysis roles, as well as collaborations in economic and financial research.",
+  "ctaText": "Open to opportunities in research, business analysis, and risk analysis, as well as collaboration on economic and financial research. Feel free to reach out.",
   "xpIntro": "Experience across a central bank, a state-owned enterprise, a university fintech centre, and a heavy-equipment company, most recent first.",
   "metrics": [
     {
       "v": "93.59%",
-      "l": "Budget absorption on an IDR 210 billion programme",
+      "l": "Budget realisation rate of an IDR 210 billion programme",
       "s": "Bank Indonesia · 2025"
     },
     {
       "v": "46",
-      "l": "Regional offices covered by monthly realisation analysis",
+      "l": "Regional offices advised on the implementation of Bank Indonesia programmes",
+      "s": "Bank Indonesia · 2025 -2026"
+    },
+    {
+      "v": "10+",
+      "l": "Research reports and executive briefings delivered to clients",
+      "s": "Danareksa · 2024"
+    },
+    {
+      "v": "60+",
+      "l": "Food security equipment items standardised across technical specifications and price benchmarks",
       "s": "Bank Indonesia · 2025"
     },
     {
-      "v": "25 hrs",
-      "l": "Manual reporting saved every week with a Power BI dashboard",
-      "s": "United Tractors · 2023"
-    },
-    {
-      "v": "+40%",
-      "l": "Increase in online traffic to UT Virtual Museum",
-      "s": "United Tractors · 2023"
-    },
-    {
-      "v": "100+",
-      "l": "Field survey respondents across Jakarta and West Java",
-      "s": "UNS Fintech Center · 2023"
+      "v": "30+",
+      "l": "Presentations delivered to support leadership decision-making",
+      "s": "Bank Indonesia · 2025"
     },
     {
       "v": "3.82",
@@ -217,12 +217,6 @@
   ],
   "education": [
     {
-      "school": "Universitas Gadjah Mada",
-      "degree": "Master of Business Administration, Finance concentration",
-      "period": "In progress",
-      "note": ""
-    },
-    {
       "school": "Universitas Sebelas Maret",
       "degree": "Bachelor of Economics",
       "period": "2020 – 2024",
@@ -279,7 +273,7 @@
     }
   ],
   "font": "klasik",
-  "accent": "#ffffff",
+  "accent": "#0E6377",
   "builder": false,
   "sticker": "Holaa!",
   "photo": "/images/mwatdige0htp.jpg",
